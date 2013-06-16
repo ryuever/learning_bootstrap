@@ -1,5 +1,5 @@
 # learning bootstrap from local
-you just need to put below code at the beginning of html and change the path accordingly.
+you just need to put below code at the beginning of html and change the `path` accordingly.
 
 ```html
 <head>
